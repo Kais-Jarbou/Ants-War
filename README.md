@@ -10,4 +10,5 @@ Controls:
 - left mouse click to hit the ant
 - R to restart the game if you got killed
 
-DEMO:
+DEMO on my LinkedIn profile:
+https://www.linkedin.com/posts/kaisjarbou_antsabrwar-activity-6888259998854500352-rU8h
